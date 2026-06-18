@@ -1,12 +1,13 @@
-.title1{
-    color: red;
-}
+.box{
+    width: 200px;
 
-.title2{
+    border: 1px solid gray;
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+}
+.title{
     color: blue;
-    font-size: 60px;
-}
-
-#description{
-    color: yellow;
+    margin-top: 50px;
+    margin-left: 100px;
 }
