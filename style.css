@@ -88,3 +88,16 @@ border: 1px solid rgb(17, 185, 218)
     border: 1px solid goldenrod;
     align-items: center;
 }
+
+.banner{
+    width: 600px;
+    height: 300px;
+    color:white;
+    border: 1px solid red;
+    margin: auto;
+    background-image: url('images/bg.avif'), linear-gradient(45deg, red,blue);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
