@@ -94,3 +94,31 @@ a{
     text-decoration:none;
     color: white;
 }
+.contact-us{
+    padding: 50px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 4px 4px 8px gray;
+    /* width: 75px;
+    margin: auto; */
+    margin-top: 30px;
+}
+.input-box{
+    padding: 10px;
+    width: 50%;
+    margin-top: 10px;
+}
+.massage{
+    width: 40%;
+    height: 100px;
+    margin-top: 15px;
+}
+.submit-btn{
+    width: 25%;
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}
