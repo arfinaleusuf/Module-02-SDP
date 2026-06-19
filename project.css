@@ -23,3 +23,34 @@ li:hover{
     color: blue;
     cursor: pointer;
 }
+.banner-img{
+    width: 350px;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    /* background-image: url(images/background.avif); */
+}
+.banner-left{
+    width: 400px;
+    line-height: 2.5;
+}
+
+.btn{
+    padding: 15px 30px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.hire-btn{
+background-color:rgb(34, 34, 61);
+}
+.project-btn{
+    background-color: rgb(59, 116, 169);
+}
+.title{
+    font-size: 45px;
+}
