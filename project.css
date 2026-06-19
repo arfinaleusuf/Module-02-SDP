@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(186, 185, 185);
+    padding: 10px;
+}
+.logo{
+    width: 80px;
+}
+li{
+    list-style: none;
+}
+.menu-container{
+    display: flex;
+    gap: 15px;
+}
+li:hover{
+    color: blue;
+    cursor: pointer;
+}
